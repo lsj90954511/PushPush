@@ -4,7 +4,7 @@
 
 ## 앱 설명
 ![슬라이드1](https://user-images.githubusercontent.com/68212670/157681151-d7e113de-e724-484b-9328-c5ce9bccfdb2.PNG)
-![슬라이드2]([구루 ppt/슬라이드2.JPG])
+![슬라이드2](구루 ppt/슬라이드2.JPG)
 ![슬라이드3](구루 ppt/슬라이드3.JPG)
 ![슬라이드5](구루 ppt/슬라이드5.JPG)
 ![슬라이드6](구루 ppt/슬라이드6.JPG)
